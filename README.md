@@ -2,4 +2,4 @@
 
 simple workout tracker, personal use.
 
-not-very-cool.github.io
+thezicronite.github.io
