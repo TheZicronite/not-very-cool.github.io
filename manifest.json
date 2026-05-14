@@ -1,15 +1,22 @@
 {
-  "name": "Weekly Lift",
-  "short_name": "wlift",
-  "start_url": ".",
+  "name": "Weekly Lift Tracker",
+  "short_name": "Lift Tracker",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#0D0D0F",
   "theme_color": "#0D0D0F",
   "icons": [
     {
-      "src": "LIFT TRACKER.png",
+      "src": "WEEKLY LIFT.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "WEEKLY LIFT.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
